@@ -1,0 +1,2 @@
+HumanMessage(content="I want to generate a refund request for my order #12345")
+AIMessage(content="Your refund will be processed in 5 - 7 days.")
